@@ -160,7 +160,7 @@ Save the file and refresh the **viewing tab**. It should display:
 
 We told the browser that this set of list items that we "wrapped" in the
 **ordered list** tag go together **as a list**. Because we told the browser that
-the list is **ordered** it decided to be helpful and put numbers next to the
+the list is **ordered** it decided to be helpful and put numbers next to theHtml
 list items _for us_.
 
 ### Wrapping and Indentation
